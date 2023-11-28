@@ -59,6 +59,7 @@
          - Tailer in Background
          - Title & Description
          - MovieSuggestions
+           
               - MovieLists * N
 - NetflixGPT
      - Search Bar
